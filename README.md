@@ -34,11 +34,12 @@ I build **fast, accessible, production React applications** and high-converting 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=develop-webkit&show_icons=true&theme=default&hide_border=true" alt="Nabeel's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develop-webkit&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://komarev.com/ghpvc/?username=develop-webkit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/develop-webkit?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="Followers" />
 </p>
 
 ### 💡 Featured Work
