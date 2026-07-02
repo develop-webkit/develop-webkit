@@ -34,12 +34,16 @@ I build **fast, accessible, production React applications** and high-converting 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=develop-webkit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://github-stats-extended-frontend-three.vercel.app/api?username=develop-webkit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Nabeel's GitHub stats" height="165" />
+  <img src="https://github-stats-extended-frontend-three.vercel.app/api/top-langs/?username=develop-webkit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=develop-webkit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/develop-webkit?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/develop-webkit?style=flat&logo=github&label=Followers&color=0e75b6" alt="Followers" />
 </p>
 
 ### 💡 Featured Work
