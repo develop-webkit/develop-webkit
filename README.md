@@ -37,8 +37,7 @@ I build **fast, accessible, production React applications** and high-converting 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-three.vercel.app/api?username=develop-webkit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Nabeel's GitHub stats" height="165" />
-  <img src="https://github-stats-extended-frontend-three.vercel.app/api/top-langs/?username=develop-webkit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-stats-extended-frontend-three.vercel.app/api?username=develop-webkit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,contribs" alt="Nabeel's GitHub stats" height="180" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=develop-webkit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
