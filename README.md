@@ -2,6 +2,10 @@
 <h3 align="center">Senior Frontend Developer · React · Next.js · TypeScript</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=540&height=45&lines=Senior+Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+fast%2C+accessible+web+apps" alt="Frontend Developer" />
+</p>
+
+<p align="center">
   <a href="https://nabeelyaseen.com">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/nabeelyaseen">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://www.upwork.com/fl/developwebkit">⭐ Upwork (5.0★)</a> &nbsp;•&nbsp;
@@ -37,7 +41,7 @@ I build **fast, accessible, production React applications** and high-converting 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-three.vercel.app/api?username=develop-webkit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,contribs" alt="Nabeel's GitHub stats" height="180" />
+  <img src="https://github-stats-extended-frontend-three.vercel.app/api?username=develop-webkit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide=issues,contribs&title_color=a371f7&icon_color=79c0ff&text_color=adbac7&bg_color=161b22" alt="Nabeel's GitHub stats" height="185" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=develop-webkit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
